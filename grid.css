@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+
+img{
+    width:240px;
+    height: 160px;
+    border: 1px solid #dcd9d9;
+}
+.nav-imgs{
+    
+}
+.navimg{
+    display: flex;
+    padding: 10px 10px 10px 10px;
+    align-items: center;
+}
+.footimg{
+    display: flex;
+    padding: 10px 10px 10px 10px;
+    align-items: center;
+    }
